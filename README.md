@@ -42,9 +42,7 @@ This Knowledge Base Search Engine implements a Retrieval-Augmented Generation (R
 - **Error Handling**: Graceful handling of edge cases
 
 ## Architecture
-
-```
-https://github.com/marthand-2004/7---Knowledge-base-Search-Engine/blob/main/diagram-export-10-17-2025-9_19_43-AM.png
+https://github.com/G-HARSHITH/knowledge-base-search-engine/blob/main/diagram-export-10-17-2025-9_19_43-AM.png
 ```
 
 ### RAG Workflow
